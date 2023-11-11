@@ -1,1 +1,2 @@
 Do we have to run backend and  front end on different servers.
+Blog app we shoud add middle ware before the route.as data will come from the route.
